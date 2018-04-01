@@ -1,0 +1,14 @@
+fatal: Not a git repository (or any of the parent directories): .git
+In file included from qrc_bitcoin.cpp:9:0:
+qrc_bitcoin.cpp:155584:44: warning: ‘qInitResources_bitcoin__init_variable__’ defined but not used [-Wunused-variable]
+ Q_CONSTRUCTOR_FUNCTION(QT_MANGLE_NAMESPACE(qInitResources_bitcoin))
+                                            ^
+/usr/include/qt4/QtCore/qglobal.h:941:21: note: in definition of macro ‘Q_CONSTRUCTOR_FUNCTION0’
+    static const int AFUNC ## __init_variable__ = AFUNC();
+                     ^
+qrc_bitcoin.cpp:155584:1: note: in expansion of macro ‘Q_CONSTRUCTOR_FUNCTION’
+ Q_CONSTRUCTOR_FUNCTION(QT_MANGLE_NAMESPACE(qInitResources_bitcoin))
+ ^
+qrc_bitcoin.cpp:155584:24: note: in expansion of macro ‘QT_MANGLE_NAMESPACE’
+ Q_CONSTRUCTOR_FUNCTION(QT_MANGLE_NAMESPACE(qInitResources_bitcoin))
+                        ^
