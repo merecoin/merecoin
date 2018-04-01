@@ -6,7 +6,7 @@ Merecoin - is Litecoin(Bitcoin) clone.
 
 I make it to show you, what I'm talking about (-:
 
-You can mine your merecoins with this client-programm.
+You can mine your merecoins with this client-program.
 
 Before you start the mining merecoins, you must be compile source code (see doc/readme-qt.rst), or just download Windows32-client from https://github.com/merecoin/merecoin/releases 
 
@@ -20,7 +20,7 @@ Ordinary block-reward is 100 merecoins, but for first 10.000 blocks reward is 40
 
 - Run it.
 
-- Go to programm-console (from top-menu of programm) and enter the command:
+- Go to program-console (from top-menu of program) and enter the command:
 
 setgenerate true 1
 
