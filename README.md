@@ -31,3 +31,7 @@ I can make your own coin-system like Merecoin (with customized name, blockchain,
 Let me know if you need it:
 
 merecoin@gmail.com
+
+# ***
+
+Merecoin uses the following four ports: 49001, 49002 for Mainnet, and 49011, 49012 for Testnet.
