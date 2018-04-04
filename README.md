@@ -1,3 +1,5 @@
+Read this first: https://github.com/merecoin/merecoin/blob/master/MERECOINS_WHITE_PAPER.pdf ...or later, it does not matter (-:
+
 # Merecoin
 
 Merecoin is a fully functional cryptocurrency, based on blockchain technology.
